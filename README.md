@@ -4,6 +4,12 @@ This project demonstrates an end-to-end data engineering and exploratory data an
 
 The project is designed for learning and demonstration purposes. All employee records are synthetic and do not represent real people.
 
+## Student Information
+
+- **Name:** Ubaid Ullah
+- **Student ID:** 9110715
+- **Course:** [PROG8245]
+
 ## Project Objectives
 
 - Generate realistic synthetic employee records with Faker
