@@ -63,7 +63,7 @@ Activate it in PowerShell:
 Install the pinned dependencies and the notebook-specific libraries:
 
 ```bash
-python -m pip install -r requirements.txt matplotlib scikit-learn python-dotenv
+python -m pip install -r requirements.txt 
 ```
 
 Register the virtual environment as a Jupyter kernel:
