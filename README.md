@@ -118,6 +118,9 @@ Salary values are transformed to a range from 0 to 1 using `MinMaxScaler`.
 
 ## Database Notes
 
+I will send an `email` having a zip file which will include `.env` file . this file will have the connection string URL , which i have used to connect to database. the file will `NOT` be password protected .
+Please paste the .env file in the root folder , then run Notebook (ipynb). 
+
 The notebook uses `CREATE TABLE IF NOT EXISTS` and inserts records with conflict handling for existing employee IDs. This allows the notebook to be rerun without creating duplicate employee records for the same IDs.
 
 The database connection remains open during the notebook session. When finished, close the cursor and connection with:
