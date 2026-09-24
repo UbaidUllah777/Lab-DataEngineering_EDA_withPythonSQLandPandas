@@ -139,3 +139,16 @@ The synthetic data generation uses fixed random seeds, so repeated runs produce 
 - Keep `.env` private.
 - Do not paste database credentials into notebook cells.
 - Use a separate development database for experimentation.
+
+
+
+
+
+
+## Other Projects in my Portfolio:
+
+* https://github.com/UbaidUllah777/Lab1---Data-Collection-and-Pre-processing.git
+* https://github.com/UbaidUllah777/Lab-DataEngineering_EDA_withPythonSQLandPandas.git
+* https://github.com/UbaidUllah777/anomaly_lab.git
+* https://github.com/UbaidUllah777/DataStreamVisualization_workshop.git
+* 
