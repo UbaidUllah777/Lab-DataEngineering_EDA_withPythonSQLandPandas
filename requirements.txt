@@ -31,3 +31,6 @@ traitlets==5.16.1
 typing_extensions==4.16.0
 tzdata==2026.4
 wcwidth==0.9.0
+matplotlib
+scikit-learn
+python-dotenv
